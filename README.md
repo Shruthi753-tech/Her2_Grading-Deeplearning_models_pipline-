@@ -331,3 +331,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ for advancing precision medicine in oncology*
+
+## Contributors
+- Shruthi756-tech(Bioinformatics student)
